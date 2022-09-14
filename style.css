@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+  
+div {
+    font-family: Arial;
+    text-align: justify;
+    padding: 40px 100px 40px 100px;
+}
+p {
+    font-family: Arial;
+    text-align: center;
+    padding: 0px 100px 0px 100px;
+}
+  .fotos{
+  padding: 20px 10px 20px 10px;
+}
+  .blog, .list{
+    background-color: #f0ede1;
+
+    }
+ .ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+
+.topnav {
+    background-color: #3b3d40;
+  }
+  
+  .topnav a {
+    color: white;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 17px;
+
+  }
